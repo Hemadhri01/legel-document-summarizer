@@ -3,3 +3,4 @@ torch
 streamlit
 torch==1.7.1
 # other dependencies
+transformers
