@@ -1,0 +1,1 @@
+# legel-document-summarizer
