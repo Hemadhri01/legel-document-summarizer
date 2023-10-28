@@ -1,6 +1,5 @@
 python-docx
-torch
 streamlit
-torch==1.7.1
 # other dependencies
-transformers
+torch>=1.8
+transformers>=4.10 
