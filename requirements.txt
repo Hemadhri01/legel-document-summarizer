@@ -1,4 +1,3 @@
--m pip install --upgrade pip
 python-docx
 pip install torch
 torch==1.7.1
