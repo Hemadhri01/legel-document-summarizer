@@ -1,2 +1,4 @@
 python-docx
-pip freeze > requirements.txt
+pip install torch
+torch==1.7.1
+# other dependencies
