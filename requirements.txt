@@ -1,1 +1,2 @@
 python-docx
+pip freeze > requirements.txt
